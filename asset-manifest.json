@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7067bb02.css",
+    "main.js": "/static/js/main.dbb616b7.js",
+    "static/media/fira-code-latin-400-normal.woff": "/static/media/fira-code-latin-400-normal.06c1ad054b7190c10459.woff",
+    "static/media/fira-code-latin-400-normal.woff2": "/static/media/fira-code-latin-400-normal.e662d57ce51fba1f46e3.woff2",
+    "static/media/fira-code-cyrillic-ext-400-normal.woff": "/static/media/fira-code-cyrillic-ext-400-normal.f186a86ab69f5ec5370d.woff",
+    "static/media/fira-code-cyrillic-ext-400-normal.woff2": "/static/media/fira-code-cyrillic-ext-400-normal.8ae7ba46c49a0347ea65.woff2",
+    "static/media/fira-code-greek-400-normal.woff": "/static/media/fira-code-greek-400-normal.38eb798a64b2a667d305.woff",
+    "static/media/fira-code-latin-ext-400-normal.woff": "/static/media/fira-code-latin-ext-400-normal.b4bfeb8f8fc069e5a60c.woff",
+    "static/media/fira-code-cyrillic-400-normal.woff": "/static/media/fira-code-cyrillic-400-normal.fe2a6ee31c8cd9024a1d.woff",
+    "static/media/fira-code-greek-400-normal.woff2": "/static/media/fira-code-greek-400-normal.fdf1c77f42d62a5dc722.woff2",
+    "static/media/fira-code-latin-ext-400-normal.woff2": "/static/media/fira-code-latin-ext-400-normal.f688c1c39f363f86fd4a.woff2",
+    "static/media/fira-code-greek-ext-400-normal.woff": "/static/media/fira-code-greek-ext-400-normal.6b181daf46a81f6de231.woff",
+    "static/media/fira-code-cyrillic-400-normal.woff2": "/static/media/fira-code-cyrillic-400-normal.3b12523542a36f074eff.woff2",
+    "static/media/fira-code-greek-ext-400-normal.woff2": "/static/media/fira-code-greek-ext-400-normal.0e81dfaccdc5adb60d7c.woff2",
+    "index.html": "/index.html",
+    "main.7067bb02.css.map": "/static/css/main.7067bb02.css.map",
+    "main.dbb616b7.js.map": "/static/js/main.dbb616b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7067bb02.css",
+    "static/js/main.dbb616b7.js"
+  ]
+}
